@@ -102,7 +102,7 @@ philosophy: if a tool exists, can I host it myself?
 
 ### contributions
 
-![snake eating contributions](https://raw.githubusercontent.com/IdontKNOWcodingREALLY/IdontKNOWcodingREALLY/main/dist/github-contribution-grid-snake-dark.svg)
+![snake eating contributions](https://raw.githubusercontent.com/IdontKNOWcodingREALLY/Profile/refs/heads/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
